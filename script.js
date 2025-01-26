@@ -37,11 +37,11 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
 
   // Create a subdirectory for the split files of this GPX file
   const baseName = path.basename(inputFile, ".gpx");
-  const fileOutputDir = path.join(outputDir, baseName);
+  // const fileOutputDir = path.join(outputDir, baseName);
 
-  if (!fs.existsSync(fileOutputDir)) {
-    fs.mkdirSync(fileOutputDir, { recursive: true });
-  }
+  // if (!fs.existsSync(fileOutputDir)) {
+  //   fs.mkdirSync(fileOutputDir, { recursive: true });
+  // }
 
   // Dynamically import Prettier XML plugin once
   const pluginXml = await import("@prettier/plugin-xml");
@@ -116,7 +116,7 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
 
     // Write the new GPX file
     const outputFileName = `${baseName}_part-${index + 1}.gpx`;
-    const outputFilePath = path.join(fileOutputDir, outputFileName);
+    const outputFilePath = path.join(outputDir, outputFileName);
 
     fs.writeFileSync(outputFilePath, formattedContent, "utf8");
     console.log(`Saved: ${outputFilePath}`);
