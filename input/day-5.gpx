@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<metadata>
+<name>TT2000 2025 - Day 5</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:10Z</time>
+</metadata>
+<rte><name>TT2000 2025 - Day 5</name>
+<rtept lat="-46.557663" lon="169.468769"><name>Papatowai DOC Camp</name><desc>Continue</desc><sym>Flag, Green</sym><type>start</type></rtept>
+<rtept lat="-46.48553" lon="169.603962"><name>Papatowai Highway</name><desc>Continue onto Papatowai Highway</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.24124" lon="169.731151"><name>Z</name><desc>Waypoint 1</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="-46.236986" lon="169.743666"><name>Clyde Street, SH 1</name><desc>Continue onto Clyde Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.154443" lon="169.620846"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.014604" lon="169.513693"><name>20 Tuapeka Mouth Coronation Hall</name><desc>Waypoint 2</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="-45.965215" lon="169.517404"><name>Tuapeka Mouth Road</name><desc>Continue onto Tuapeka Mouth Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-45.931699" lon="169.58424"><name>Waypoint 3</name><desc>Waypoint 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-45.9337" lon="169.617927"><name>Tuapeka West Road</name><desc>Continue onto Tuapeka West Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.030198" lon="169.792792"><name>Beaumont Highway, SH 8</name><desc>Continue onto Beaumont Highway, SH 8</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.13056" lon="169.938734"><name>Milton Highway, SH 1</name><desc>Continue onto Milton Highway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.126584" lon="169.962263"><name>Waypoint 4</name><desc>Waypoint 4</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-46.131342" lon="169.97187"><name>21 Tokoiti School</name><desc>Waypoint 5</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="-46.118706" lon="169.967938"><name>Springfield Road</name><desc>Continue onto Springfield Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-45.905005" lon="170.311271"><name>Union Street, SH 1</name><desc>Continue onto Union Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-45.52041" lon="170.6973"><name>Great King Street, SH 1</name><desc>Continue onto Great King Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-44.417173" lon="171.244604"><name>Thames Street, SH 1</name><desc>Continue onto Thames Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.755943" lon="172.025456"><name>Archibald Street, SH 1</name><desc>Continue onto Archibald Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.581361" lon="172.411106"><name>Main South Road, SH 1</name><desc>Continue onto Main South Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.564848" lon="172.451045"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.556876" lon="172.468482"><name>Main South Road, SH 1</name><desc>Continue onto Main South Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.544255" lon="172.490375"><name>Pound Road</name><desc>Continue onto Pound Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.512568" lon="172.509308"><name>Yaldhurst Road, SH 73</name><desc>Continue onto Yaldhurst Road, SH 73</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.493277" lon="172.549705"><name>Masham Road, SH 1</name><desc>Continue onto Masham Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.475476" lon="172.558003"><name>Johns Road, SH 1</name><desc>Continue onto Johns Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.464637" lon="172.582291"><name>Johns Road, SH 1</name><desc>Continue onto Johns Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-43.420806" lon="172.648286"><name>Western Belfast Bypass, SH 1</name><desc>Continue onto Western Belfast Bypass, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-42.466217" lon="173.539227"><name>Main North Road, SH 1</name><desc>Continue onto Main North Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.484865" lon="173.965402"><name>Grove Road, SH 1</name><desc>Continue onto Grove Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.374372" lon="173.946945"><name>State Highway 1, SH 1</name><desc>Continue onto State Highway 1, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.292116" lon="174.006765"><name>Z</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type>via</type></rtept>
+<rtept lat="-41.289992" lon="174.012184"><name>Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.271167" lon="174.030437"><name>Parklands Marina Holiday Park</name><desc>Arrive at destination</desc><sym>Flag, Red</sym><type>destination</type></rtept>
+</rte>
+</gpx>

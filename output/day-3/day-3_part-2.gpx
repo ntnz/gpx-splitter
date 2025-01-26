@@ -7,14 +7,14 @@
   xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
 >
 <metadata>
-<name>day-3 (Part 2)</name>
+<name>day-3_part-2</name>
 <copyright author="OpenStreetMap contributors"/>
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
-<time>2025-01-26T01:03:57Z</time>
+<time>2025-01-26T02:33:01Z</time>
 </metadata>
-<rte><name>day-3 (Part 2)</name><rtept lat="-44.118061" lon="170.83482"><name
+<rte><name>day-3_part-2</name><rtept lat="-44.118061" lon="170.83482"><name
       >Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type
       >start</type></rtept><rtept lat="-44.089346" lon="170.636233"><name
       >Albury - Fairlie Road, SH 8</name><desc

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
+<metadata>
+<name>day-4_part-1</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:06Z</time>
+</metadata>
+<rte><name>day-4_part-1</name><rtept lat="-45.185043" lon="170.890812"><name
+      >Kakanui Camping Ground</name><desc>Continue</desc><sym
+      >Flag, Green</sym><type>start</type></rtept><rtept
+      lat="-45.456984"
+      lon="170.809014"
+    ><name>Waypoint 1</name><desc>Waypoint 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.480174" lon="170.745973"><name
+      >Waypoint 2</name><desc>Waypoint 2</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.480397" lon="170.722878"><name
+      >Hampden - Palmerston Road, SH 1</name><desc
+      >Continue onto Hampden - Palmerston Road, SH 1</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.485322"
+      lon="170.714382"
+    ><name>Z</name><desc>Waypoint 3</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-45.407936" lon="170.645812"><name
+      >Tiverton Street, SH 85</name><desc
+      >Continue onto Tiverton Street, SH 85</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.381639" lon="170.430188"><name
+      >10 Coronation Hall</name><desc>Waypoint 4</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.36258"
+      lon="170.325162"
+    ><name>Main Street</name><desc>Continue onto Main Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.118582"
+      lon="170.208445"
+    ><name>Morrisons - Kyeburn Road, SH 85</name><desc
+      >Continue onto Morrisons - Kyeburn Road, SH 85</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.04194"
+      lon="169.688564"
+    ><name>Waypoint 5</name><desc>Waypoint 5</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.192392" lon="169.330099"><name
+      >Hazlett Street</name><desc>Continue onto Hazlett Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.246046"
+      lon="169.333731"
+    ><name>11 Earnscleugh Hall</name><desc>Waypoint 6</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.401769"
+      lon="169.296514"
+    ><name>Alexandra-Fruitlands Road, SH 8</name><desc
+      >Continue onto Alexandra-Fruitlands Road, SH 8</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.541587"
+      lon="169.3152"
+    ><name>Allied</name><desc>Waypoint 7</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-45.589304" lon="169.329679"><name
+      >Teviot Road</name><desc>Continue onto Teviot Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.661377"
+      lon="169.410082"
+    ><name>12 Millers Flat Hall</name><desc>Waypoint 8</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.654536"
+      lon="169.391247"
+    ><name>Ettrick-Raes Junction Road, SH 8</name><desc
+      >Continue onto Ettrick-Raes Junction Road, SH 8</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.663261"
+      lon="169.326901"
+    ><name>Moa Flat Road</name><desc>Continue onto Moa Flat Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.912668"
+      lon="169.23476"
+    ><name>Wooded Hill Road</name><desc
+      >Continue onto Wooded Hill Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.945106" lon="169.247676"><name
+      >Waypoint 9</name><desc>Waypoint 9</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.108611" lon="169.245258"><name
+      >Waypoint 10</name><desc>Waypoint 10</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.202121" lon="169.37414"><name
+      >Waypoint 11</name><desc>Waypoint 11</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.226349" lon="169.343545"><name
+      >Waypoint 12</name><desc>Waypoint 12</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.167062" lon="169.096477"><name
+      >13 Kaiwera Hall</name><desc>Waypoint 13</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-46.119193" lon="168.946628"><name
+      >River Road</name><desc>Continue onto River Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.088955"
+      lon="168.944453"
+    ><name>Hokonui Drive, SH 94</name><desc
+      >Continue onto Hokonui Drive, SH 94</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.058892" lon="168.911654"><name
+      >Waypoint 14</name><desc>Waypoint 14</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.995178" lon="168.822153"><name
+      >Waimea Highway, SH 94</name><desc
+      >Continue onto Waimea Highway, SH 94</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.925098" lon="168.761919"><name
+      >Waypoint 15</name><desc>Waypoint 15</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.78634" lon="168.484663"><name
+      >Waypoint 16</name><desc>Waypoint 16</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-45.737258" lon="168.44289"><name
+      >14 Lumsden Memorial Hall</name><desc>Waypoint 17</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.736271"
+      lon="168.440759"
+    ><name>Petrol station</name><desc>Waypoint 18</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.715927"
+      lon="168.393761"
+    ><name>Mossburn Lumsden Highway, SH 94</name><desc
+      >Continue onto Mossburn Lumsden Highway, SH 94</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.944023"
+      lon="168.113813"
+    ><name>Sinclair Road</name><desc>Continue onto Sinclair Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.932088"
+      lon="167.95787"
+    ><name>15 Ohai Community Hall</name><desc>Waypoint 19</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.948263"
+      lon="167.858483"
+    ><name>Birchwood Road</name><desc>Continue onto Birchwood Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.041558"
+      lon="167.711409"
+    ><name>Waypoint 20</name><desc>Waypoint 20</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.095124" lon="167.701396"><name
+      >Clifden Highway, SH 99</name><desc
+      >Continue onto Clifden Highway, SH 99</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.137374" lon="167.689223"><name
+      > 16 Tuatapere Pipe Band Hall</name><desc>Waypoint 21</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-46.308512"
+      lon="167.746171"
+    ><name>Waypoint 22</name><desc>Waypoint 22</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.315978" lon="167.80393"><name
+      >Orepuki Riverton Highway, SH 99</name><desc
+      >Continue onto Orepuki Riverton Highway, SH 99</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.352019"
+      lon="168.015531"
+    ><name>17 Riverton Community House</name><desc>Waypoint 23</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-46.349996"
+      lon="168.017148"
+    ><name>McKeown Riverton</name><desc>Waypoint 24</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-46.344422"
+      lon="168.023588"
+    ><name>Palmerston Street, SH 99</name><desc
+      >Continue onto Palmerston Street, SH 99</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.15835" lon="168.00857"><name
+      >Riverton Otautau Road</name><desc
+      >Continue onto Riverton Otautau Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.034319" lon="168.107316"><name
+      >Waypoint 25</name><desc>Waypoint 25</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.034087" lon="168.117194"><name
+      >Winton-Wreys Bush Highway, SH 96</name><desc
+      >Continue onto Winton-Wreys Bush Highway, SH 96</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.038153"
+      lon="168.126309"
+    ><name>Bayswater Road</name><desc>Continue onto Bayswater Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.11372"
+      lon="168.236247"
+    ><name>Waypoint 26</name><desc>Waypoint 26</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.137361" lon="168.326735"><name
+      >Waypoint 27</name><desc>Waypoint 27</desc><sym>Waypoint</sym><type
+      >destination</type></rtept></rte>
+</gpx>

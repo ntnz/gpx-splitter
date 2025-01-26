@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<metadata>
+<name>TT2000 2025 - Day 6</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:14Z</time>
+</metadata>
+<rte><name>TT2000 2025 - Day 6</name>
+<rtept lat="-41.271167" lon="174.030437"><name>Parklands Marina Holiday Park</name><desc>Continue</desc><sym>Flag, Green</sym><type>start</type></rtept>
+<rtept lat="-41.289634" lon="174.013511"><name>Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.239444" lon="174.221231"><name>InterIslander commercial vehicle check-in</name><desc>Continue onto InterIslander commercial vehicle check-in</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.257451" lon="174.795145"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.240103" lon="174.808225"><name>SH 1</name><desc>Continue onto SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.196924" lon="174.825194"><name>Johnsonville Porirua Motorway, SH 1</name><desc>Continue onto Johnsonville Porirua Motorway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.820269" lon="175.102742"><name>Te Aranui o Te Rangihaeata   Transmission Gully Motorway, SH 1</name><desc>Continue onto Te Aranui o Te Rangihaeata   Transmission Gully Motorway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.207619" lon="175.406302"><name>Dundas Street, SH 1, SH 3</name><desc>Continue onto Dundas Street, SH 1, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.190168" lon="175.388396"><name>State Highway 1, SH 1, SH 3</name><desc>Continue onto State Highway 1, SH 1, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.795084" lon="175.786651"><name>High Street, SH 1</name><desc>Continue onto High Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.445318" lon="175.469829"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.089146" lon="175.378093"><name>State Highway 4, SH 4</name><desc>Continue onto State Highway 4, SH 4</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.609225" lon="175.216864"><name>State Highway 4, SH 4</name><desc>Continue onto State Highway 4, SH 4</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.37975" lon="175.150056"><name>State Highway 3, SH 3</name><desc>Continue onto State Highway 3, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.291949" lon="175.146312"><name>Carroll Street, SH 3</name><desc>Continue onto Carroll Street, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.230615" lon="175.189933"><name>State Highway 3, SH 3</name><desc>Continue onto State Highway 3, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.037303" lon="175.18513"><name>Te Kanawa Street, SH 31, SH 39</name><desc>Continue onto Te Kanawa Street, SH 31, SH 39</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.75973" lon="175.151317"><name>Horotiu Road, SH 39</name><desc>Continue onto Horotiu Road, SH 39</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.278419" lon="175.047362"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-36.801943" lon="174.761169"><name>Auckland Northern Motorway, SH 1</name><desc>Continue onto Auckland Northern Motorway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-36.752718" lon="174.716168"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-36.754762" lon="174.692746"><name>Nathan's house</name><desc>Arrive at destination</desc><sym>Flag, Red</sym><type>destination</type></rtept>
+</rte>
+</gpx>

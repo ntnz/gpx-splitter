@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
+<metadata>
+<name>day-2_part-1</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:32:57Z</time>
+</metadata>
+<rte><name>day-2_part-1</name><rtept lat="-41.271167" lon="174.030437"><name
+      >Parklands Marina Holiday Park</name><desc>Continue</desc><sym
+      >Flag, Green</sym><type>start</type></rtept><rtept
+      lat="-41.289634"
+      lon="174.013511"
+    ><name>Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.292062"
+      lon="174.006766"
+    ><name>Z</name><desc>Waypoint 1</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-41.354663" lon="173.95378"><name
+      >Wairau Road, SH 1</name><desc>Continue onto Wairau Road, SH 1</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.440973"
+      lon="173.906121"
+    ><name>Bush Road</name><desc>Continue onto Bush Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.494819"
+      lon="173.815569"
+    ><name>Conders Bend Road</name><desc
+      >Continue onto Conders Bend Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-41.506749" lon="173.795969"><name
+      >Bedford Road</name><desc>Continue onto Bedford Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.69321"
+      lon="172.471978"
+    ><name>Kawatiri - Murchison Highway, SH 6</name><desc
+      >Continue onto Kawatiri - Murchison Highway, SH 6</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.799867"
+      lon="172.324786"
+    ><name>Mobil</name><desc>Waypoint 2</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-41.782025" lon="172.268396"><name
+      >Waller Street, SH 6</name><desc
+      >Continue onto Waller Street, SH 6</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-41.962924" lon="171.894005"><name
+      >State Highway 69, SH 69</name><desc
+      >Continue onto State Highway 69, SH 69</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.457489" lon="171.206021"><name
+      >Tainui Street, SH 6</name><desc
+      >Continue onto Tainui Street, SH 6</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.468132" lon="171.186909"><name
+      >Greymouth Seaside TOP 10 Holiday Park</name><desc
+      >Arrive at destination</desc><sym>Flag, Red</sym><type
+      >destination</type></rtept></rte>
+</gpx>

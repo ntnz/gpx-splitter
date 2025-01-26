@@ -53,13 +53,13 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
     // Update <name> in <metadata> and <rte>
     const metadataName = newDoc.getElementsByTagName("name")[0];
     if (metadataName) {
-      metadataName.textContent = `${baseName} (Part ${index + 1})`;
+      metadataName.textContent = `${baseName}_part-${index + 1}`;
     }
 
     const rte = newDoc.getElementsByTagName("rte")[0];
     const rteName = rte.getElementsByTagName("name")[0];
     if (rteName) {
-      rteName.textContent = `${baseName} (Part ${index + 1})`;
+      rteName.textContent = `${baseName}_part-${index + 1}`;
     }
 
     // Clear existing route points
@@ -115,7 +115,7 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
     });
 
     // Write the new GPX file
-    const outputFileName = `${baseName}_split_${index + 1}.gpx`;
+    const outputFileName = `${baseName}_part-${index + 1}.gpx`;
     const outputFilePath = path.join(fileOutputDir, outputFileName);
 
     fs.writeFileSync(outputFilePath, formattedContent, "utf8");

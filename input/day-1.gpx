@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<metadata>
+<name>TT2000 2025 - Day 1</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:32:52Z</time>
+</metadata>
+<rte><name>TT2000 2025 - Day 1</name>
+<rtept lat="-36.754762" lon="174.692746"><name>Nathan's house</name><desc>Continue</desc><sym>Flag, Green</sym><type>start</type></rtept>
+<rtept lat="-36.756043" lon="174.704645"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-36.750933" lon="174.720993"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-36.796756" lon="174.759749"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.243758" lon="175.025299"><name>Auckland Northern Motorway, SH 1</name><desc>Continue onto Auckland Northern Motorway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.70178" lon="175.209901"><name>Mangaharakeke Drive, SH 1C</name><desc>Continue onto Mangaharakeke Drive, SH 1C</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.736366" lon="175.206356"><name>Koura Drive, SH 39</name><desc>Continue onto Koura Drive, SH 39</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-37.755018" lon="175.152526"><name>Te Kōwhai Road, SH 39</name><desc>Continue onto Te Kōwhai Road, SH 39</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.03655" lon="175.186738"><name>Kakaramea Road, SH 39</name><desc>Continue onto Kakaramea Road, SH 39</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.228887" lon="175.190534"><name>Maniapoto Street, SH 3</name><desc>Continue onto Maniapoto Street, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.281232" lon="175.156025"><name>State Highway 3, SH 3</name><desc>Continue onto State Highway 3, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.379474" lon="175.150657"><name>Awakino Road, SH 3</name><desc>Continue onto Awakino Road, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-38.609487" lon="175.216992"><name>State Highway 4, SH 4</name><desc>Continue onto State Highway 4, SH 4</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.587242" lon="175.285651"><name>Hakiaha Street, SH 4</name><desc>Continue onto Hakiaha Street, SH 4</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.899321" lon="175.090041"><name>Kaimatira Road</name><desc>Continue onto Kaimatira Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.927186" lon="175.131087"><name>Number 3 Line</name><desc>Continue onto Number 3 Line</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.947119" lon="175.14612"><name>Number 2 Line</name><desc>Continue onto Number 2 Line</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-39.983587" lon="175.168882"><name>Warrengate Road</name><desc>Continue onto Warrengate Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.058999" lon="175.21941"><name>State Highway 3, SH 3</name><desc>Continue onto State Highway 3, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.205295" lon="175.40043"><name>State Highway 1, SH 1, SH 3</name><desc>Continue onto State Highway 1, SH 1, SH 3</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-40.85602" lon="175.05855"><name>Wellington Road, SH 1</name><desc>Continue onto Wellington Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.236978" lon="174.805377"><name>Centennial Highway, SH 1</name><desc>Continue onto Centennial Highway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.252679" lon="174.806056"><name>SH 1</name><desc>Continue onto SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.273136" lon="174.787293"><name>Aotea Quay</name><desc>Continue onto Aotea Quay</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.211099" lon="174.318532"><name>Continue</name><desc>Continue</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.289866" lon="174.013006"><name>Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym>Waypoint</sym><type>shaping</type></rtept>
+<rtept lat="-41.271167" lon="174.030437"><name>Parklands Marina Holiday Park</name><desc>Arrive at destination</desc><sym>Flag, Red</sym><type>destination</type></rtept>
+</rte>
+</gpx>

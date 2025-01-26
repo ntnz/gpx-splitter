@@ -7,14 +7,14 @@
   xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
 >
 <metadata>
-<name>day-3 (Part 1)</name>
+<name>day-3_part-1</name>
 <copyright author="OpenStreetMap contributors"/>
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
-<time>2025-01-26T01:03:57Z</time>
+<time>2025-01-26T02:33:01Z</time>
 </metadata>
-<rte><name>day-3 (Part 1)</name><rtept lat="-42.468132" lon="171.186909"><name
+<rte><name>day-3_part-1</name><rtept lat="-42.468132" lon="171.186909"><name
       >Greymouth Seaside TOP 10 Holiday Park</name><desc>Continue</desc><sym
       >Flag, Green</sym><type>start</type></rtept><rtept
       lat="-42.45789"
