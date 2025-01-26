@@ -1,12 +1,173 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
 <metadata>
 <name>TT2000 2025 - Day 3</name>
-<copyright author="OpenStreetMap contributors"/>
+<copyright author="OpenStreetMap contributors" />
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
 <time>2025-01-26T01:03:57Z</time>
 </metadata>
-<rte><name>TT2000 2025 - Day 3</name><rtept lat="-42.468132" lon="171.186909"><name>Greymouth Seaside TOP 10 Holiday Park</name><desc>Continue</desc><sym>Flag, Green</sym><type>start</type></rtept><rtept lat="-42.45789" lon="171.205441"><name>High Street, SH 6</name><desc>Continue onto High Street, SH 6</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.44947" lon="171.21257"><name>Z</name><desc>Waypoint 1</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-42.448504" lon="171.216925"><name>00 Grey Mouth</name><desc>Waypoint 2</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-42.445087" lon="171.308778"><name>Taylorville Road</name><desc>Continue onto Taylorville Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.372444" lon="171.496958"><name>Waypoint 3</name><desc>Waypoint 3</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.321569" lon="171.590876"><name>State Highway 7, SH 7</name><desc>Continue onto State Highway 7, SH 7</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.265919" lon="171.690681"><name>01 Ikamatua Hall</name><desc>Waypoint 4</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-42.15926" lon="171.921846"><name>Broadway, SH 7</name><desc>Continue onto Broadway, SH 7</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.270719" lon="171.971839"><name>Waypoint 5</name><desc>Waypoint 5</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.335452" lon="172.182629"><name>g_a_s</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-42.70256" lon="172.938217"><name>Rotherham Road South, 70</name><desc>Continue onto Rotherham Road South, 70</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.699179" lon="172.953124"><name>02 Rotherham Hall</name><desc>Waypoint 7</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-42.730862" lon="172.895534"><name>Rotherham Road South, 70</name><desc>Continue onto Rotherham Road South, 70</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.94248" lon="172.946579"><name>Scargill Valley Road</name><desc>Continue onto Scargill Valley Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.952521" lon="172.952696"><name>Waypoint 8</name><desc>Waypoint 8</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-42.991506" lon="172.897591"><name>Omihi Road, SH 1</name><desc>Continue onto Omihi Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.124628" lon="172.73333"><name>Omihi Road, SH 1</name><desc>Continue onto Omihi Road, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.153168" lon="172.721267"><name>Lawcocks Road, 72</name><desc>Continue onto Lawcocks Road, 72</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.247285" lon="172.672143"><name>04 Sefton Hall</name><desc>Waypoint 9</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-43.249777" lon="172.527305"><name>Hodgsons Road</name><desc>Continue onto Hodgsons Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.249678" lon="172.519891"><name>Waypoint 10</name><desc>Waypoint 10</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.28869" lon="172.196247"><name>Waypoint 11</name><desc>Waypoint 11</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.400092" lon="172.033031"><name>West Coast Road, SH 73, 72</name><desc>Continue onto West Coast Road, SH 73, 72</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.481305" lon="172.007967"><name>Beattys Road</name><desc>Continue onto Beattys Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.521241" lon="171.940856"><name>Downs Road</name><desc>Continue onto Downs Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.526564" lon="171.898277"><name>Waypoint 12</name><desc>Waypoint 12</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.520819" lon="171.829348"><name>04 Glenroy Community Hall</name><desc>Waypoint 13</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-43.514318" lon="171.713454"><name>Gasoline station</name><desc>Waypoint 14</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-43.602314" lon="171.546566"><name>Windwhistle Road, SH 77, 72</name><desc>Continue onto Windwhistle Road, SH 77, 72</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.940081" lon="171.337307"><name>Waypoint 15</name><desc>Waypoint 15</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.976376" lon="171.286624"><name>Bridge Street</name><desc>Continue onto Bridge Street</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.909748" lon="171.260455"><name>05 Peel Forest Hall</name><desc>Waypoint 16</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-43.917284" lon="171.262173"><name>Peel Forest Road</name><desc>Continue onto Peel Forest Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-43.956094" lon="171.26404"><name>Waypoint 17</name><desc>Waypoint 17</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.045814" lon="171.265962"><name>Geraldine Arundel Road, 72</name><desc>Continue onto Geraldine Arundel Road, 72</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.086969" lon="171.243411"><name>Waypoint 18</name><desc>Waypoint 18</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.153911" lon="171.260444"><name>Winchester - Geraldine Road, 72</name><desc>Continue onto Winchester - Geraldine Road, 72</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.21752" lon="171.271372"><name>Waypoint 19</name><desc>Waypoint 19</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.229735" lon="171.274164"><name>Temuka Orari Highway, SH 1</name><desc>Continue onto Temuka Orari Highway, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.262271" lon="171.269437"><name>State Highway 1, SH 1</name><desc>Continue onto State Highway 1, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.356818" lon="171.243334"><name>Meadows Road</name><desc>Continue onto Meadows Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.374511" lon="171.241997"><name>BP Showgrounds</name><desc>Waypoint 20</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-44.382589" lon="171.238252"><name>Evans Street, SH 1</name><desc>Continue onto Evans Street, SH 1</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.390873" lon="171.250454"><name>Port Loop Road, SH 78</name><desc>Continue onto Port Loop Road, SH 78</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.417501" lon="171.243347"><name>Waypoint 21</name><desc>Waypoint 21</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.432998" lon="171.203918"><name>Beaconsfield Road</name><desc>Continue onto Beaconsfield Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.439833" lon="171.163305"><name> 06 Otipua Hall</name><desc>Waypoint 22</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-44.428264" lon="171.092723"><name>Holme Station Road</name><desc>Continue onto Holme Station Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.195816" lon="170.866823"><name>Cave - Albury Road, SH 8</name><desc>Continue onto Cave - Albury Road, SH 8</desc><sym>Waypoint</sym><type>shaping</type></rtept></rte>
+<rte><name>TT2000 2025 - Day 3</name><rtept
+      lat="-42.468132"
+      lon="171.186909"
+    ><name>Greymouth Seaside TOP 10 Holiday Park</name><desc>Continue</desc><sym
+      >Flag, Green</sym><type>start</type></rtept><rtept
+      lat="-42.45789"
+      lon="171.205441"
+    ><name>High Street, SH 6</name><desc
+      >Continue onto High Street, SH 6</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.44947" lon="171.21257"><name
+      >Z</name><desc>Waypoint 1</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-42.448504" lon="171.216925"><name
+      >00 Grey Mouth</name><desc>Waypoint 2</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-42.445087" lon="171.308778"><name
+      >Taylorville Road</name><desc>Continue onto Taylorville Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-42.372444"
+      lon="171.496958"
+    ><name>Waypoint 3</name><desc>Waypoint 3</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.321569" lon="171.590876"><name
+      >State Highway 7, SH 7</name><desc
+      >Continue onto State Highway 7, SH 7</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.265919" lon="171.690681"><name
+      >01 Ikamatua Hall</name><desc>Waypoint 4</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-42.15926" lon="171.921846"><name
+      >Broadway, SH 7</name><desc>Continue onto Broadway, SH 7</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-42.270719"
+      lon="171.971839"
+    ><name>Waypoint 5</name><desc>Waypoint 5</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.335452" lon="172.182629"><name
+      >g_a_s</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-42.70256" lon="172.938217"><name
+      >Rotherham Road South, 70</name><desc
+      >Continue onto Rotherham Road South, 70</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.699179" lon="172.953124"><name
+      >02 Rotherham Hall</name><desc>Waypoint 7</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-42.730862" lon="172.895534"><name
+      >Rotherham Road South, 70</name><desc
+      >Continue onto Rotherham Road South, 70</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.94248" lon="172.946579"><name
+      >Scargill Valley Road</name><desc
+      >Continue onto Scargill Valley Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.952521" lon="172.952696"><name
+      >Waypoint 8</name><desc>Waypoint 8</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-42.991506" lon="172.897591"><name
+      >Omihi Road, SH 1</name><desc>Continue onto Omihi Road, SH 1</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.124628"
+      lon="172.73333"
+    ><name>Omihi Road, SH 1</name><desc
+      >Continue onto Omihi Road, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.153168" lon="172.721267"><name
+      >Lawcocks Road, 72</name><desc>Continue onto Lawcocks Road, 72</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.247285"
+      lon="172.672143"
+    ><name>04 Sefton Hall</name><desc>Waypoint 9</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.249777"
+      lon="172.527305"
+    ><name>Hodgsons Road</name><desc>Continue onto Hodgsons Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.249678"
+      lon="172.519891"
+    ><name>Waypoint 10</name><desc>Waypoint 10</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.28869" lon="172.196247"><name
+      >Waypoint 11</name><desc>Waypoint 11</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.400092" lon="172.033031"><name
+      >West Coast Road, SH 73, 72</name><desc
+      >Continue onto West Coast Road, SH 73, 72</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.481305" lon="172.007967"><name
+      >Beattys Road</name><desc>Continue onto Beattys Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.521241"
+      lon="171.940856"
+    ><name>Downs Road</name><desc>Continue onto Downs Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.526564"
+      lon="171.898277"
+    ><name>Waypoint 12</name><desc>Waypoint 12</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.520819" lon="171.829348"><name
+      >04 Glenroy Community Hall</name><desc>Waypoint 13</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.514318"
+      lon="171.713454"
+    ><name>Gasoline station</name><desc>Waypoint 14</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.602314"
+      lon="171.546566"
+    ><name>Windwhistle Road, SH 77, 72</name><desc
+      >Continue onto Windwhistle Road, SH 77, 72</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.940081" lon="171.337307"><name
+      >Waypoint 15</name><desc>Waypoint 15</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.976376" lon="171.286624"><name
+      >Bridge Street</name><desc>Continue onto Bridge Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.909748"
+      lon="171.260455"
+    ><name>05 Peel Forest Hall</name><desc>Waypoint 16</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.917284"
+      lon="171.262173"
+    ><name>Peel Forest Road</name><desc
+      >Continue onto Peel Forest Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.956094" lon="171.26404"><name
+      >Waypoint 17</name><desc>Waypoint 17</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.045814" lon="171.265962"><name
+      >Geraldine Arundel Road, 72</name><desc
+      >Continue onto Geraldine Arundel Road, 72</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.086969" lon="171.243411"><name
+      >Waypoint 18</name><desc>Waypoint 18</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.153911" lon="171.260444"><name
+      >Winchester - Geraldine Road, 72</name><desc
+      >Continue onto Winchester - Geraldine Road, 72</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.21752"
+      lon="171.271372"
+    ><name>Waypoint 19</name><desc>Waypoint 19</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.229735" lon="171.274164"><name
+      >Temuka Orari Highway, SH 1</name><desc
+      >Continue onto Temuka Orari Highway, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.262271" lon="171.269437"><name
+      >State Highway 1, SH 1</name><desc
+      >Continue onto State Highway 1, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.356818" lon="171.243334"><name
+      >Meadows Road</name><desc>Continue onto Meadows Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.374511"
+      lon="171.241997"
+    ><name>BP Showgrounds</name><desc>Waypoint 20</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-44.382589"
+      lon="171.238252"
+    ><name>Evans Street, SH 1</name><desc
+      >Continue onto Evans Street, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.390873" lon="171.250454"><name
+      >Port Loop Road, SH 78</name><desc
+      >Continue onto Port Loop Road, SH 78</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.417501" lon="171.243347"><name
+      >Waypoint 21</name><desc>Waypoint 21</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.432998" lon="171.203918"><name
+      >Beaconsfield Road</name><desc>Continue onto Beaconsfield Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.439833"
+      lon="171.163305"
+    ><name> 06 Otipua Hall</name><desc>Waypoint 22</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-44.428264"
+      lon="171.092723"
+    ><name>Holme Station Road</name><desc
+      >Continue onto Holme Station Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.195816" lon="170.866823"><name
+      >Cave - Albury Road, SH 8</name><desc
+      >Continue onto Cave - Albury Road, SH 8</desc><sym>Waypoint</sym><type
+      >destination</type></rtept></rte>
 </gpx>

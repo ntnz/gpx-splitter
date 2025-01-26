@@ -1,12 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Kurviger.de" version="1.1" xmlns:gh="https://kurviger.de/public/schema/gpx/1.1">
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
 <metadata>
 <name>TT2000 2025 - Day 3</name>
-<copyright author="OpenStreetMap contributors"/>
+<copyright author="OpenStreetMap contributors" />
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
 <time>2025-01-26T01:03:57Z</time>
 </metadata>
-<rte><name>TT2000 2025 - Day 3</name><rtept lat="-44.118061" lon="170.83482"><name>Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.089346" lon="170.636233"><name>Albury - Fairlie Road, SH 8</name><desc>Continue onto Albury - Fairlie Road, SH 8</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.005882" lon="170.475518"><name>07 Lake Tekapo Community Hall</name><desc>Waypoint 24</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-43.998884" lon="170.413711"><name>Tekapo-Twizel Road, SH 8</name><desc>Continue onto Tekapo-Twizel Road, SH 8</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.132485" lon="170.349435"><name>Waypoint 25</name><desc>Waypoint 25</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.18905" lon="170.135361"><name>Pūkaki Canal Road</name><desc>Continue onto Pūkaki Canal Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.371826" lon="170.00067"><name>Tekapo-Twizel Road, SH 8</name><desc>Continue onto Tekapo-Twizel Road, SH 8</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.488287" lon="169.966518"><name>Challenge Omarama</name><desc>Waypoint 26</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-44.488302" lon="169.967116"><name>Waypoint 27</name><desc>Waypoint 27</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.635232" lon="170.28542"><name>Waypoint 28</name><desc>Waypoint 28</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.701553" lon="170.442003"><name>Otematata Kurow Road, SH 83</name><desc>Continue onto Otematata Kurow Road, SH 83</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-44.94873" lon="170.747473"><name>08 Ngapara Memorial Hall</name><desc>Waypoint 29</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-45.107535" lon="170.918281"><name>Main Street</name><desc>Continue onto Main Street</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-45.164655" lon="170.913868"><name>Gardiners Road</name><desc>Continue onto Gardiners Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-45.181222" lon="170.901057"><name>09 Kakanui Community Hall</name><desc>Waypoint 30</desc><sym>Flag, Blue</sym><type>via</type></rtept><rtept lat="-45.183124" lon="170.888945"><name>Kakanui Road</name><desc>Continue onto Kakanui Road</desc><sym>Waypoint</sym><type>shaping</type></rtept><rtept lat="-45.185043" lon="170.890812"><name>Kakanui Camping Ground</name><desc>Arrive at destination</desc><sym>Flag, Red</sym><type>destination</type></rtept></rte>
+<rte><name>TT2000 2025 - Day 3</name><rtept
+      lat="-44.118061"
+      lon="170.83482"
+    ><name>Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type
+      >start</type></rtept><rtept lat="-44.089346" lon="170.636233"><name
+      >Albury - Fairlie Road, SH 8</name><desc
+      >Continue onto Albury - Fairlie Road, SH 8</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.005882" lon="170.475518"><name
+      >07 Lake Tekapo Community Hall</name><desc>Waypoint 24</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.998884"
+      lon="170.413711"
+    ><name>Tekapo-Twizel Road, SH 8</name><desc
+      >Continue onto Tekapo-Twizel Road, SH 8</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.132485" lon="170.349435"><name
+      >Waypoint 25</name><desc>Waypoint 25</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.18905" lon="170.135361"><name
+      >Pūkaki Canal Road</name><desc>Continue onto Pūkaki Canal Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.371826"
+      lon="170.00067"
+    ><name>Tekapo-Twizel Road, SH 8</name><desc
+      >Continue onto Tekapo-Twizel Road, SH 8</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.488287" lon="169.966518"><name
+      >Challenge Omarama</name><desc>Waypoint 26</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-44.488302"
+      lon="169.967116"
+    ><name>Waypoint 27</name><desc>Waypoint 27</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.635232" lon="170.28542"><name
+      >Waypoint 28</name><desc>Waypoint 28</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.701553" lon="170.442003"><name
+      >Otematata Kurow Road, SH 83</name><desc
+      >Continue onto Otematata Kurow Road, SH 83</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.94873" lon="170.747473"><name
+      >08 Ngapara Memorial Hall</name><desc>Waypoint 29</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.107535"
+      lon="170.918281"
+    ><name>Main Street</name><desc>Continue onto Main Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.164655"
+      lon="170.913868"
+    ><name>Gardiners Road</name><desc>Continue onto Gardiners Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.181222"
+      lon="170.901057"
+    ><name>09 Kakanui Community Hall</name><desc>Waypoint 30</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.183124"
+      lon="170.888945"
+    ><name>Kakanui Road</name><desc>Continue onto Kakanui Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.185043"
+      lon="170.890812"
+    ><name>Kakanui Camping Ground</name><desc>Arrive at destination</desc><sym
+      >Flag, Red</sym><type>destination</type></rtept></rte>
 </gpx>
