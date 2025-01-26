@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <gpx
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -7,17 +7,15 @@
   xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
 >
 <metadata>
-<name>TT2000 2025 - Day 3</name>
-<copyright author="OpenStreetMap contributors" />
+<name>day-3 (Part 2)</name>
+<copyright author="OpenStreetMap contributors"/>
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
 <time>2025-01-26T01:03:57Z</time>
 </metadata>
-<rte><name>TT2000 2025 - Day 3</name><rtept
-      lat="-44.118061"
-      lon="170.83482"
-    ><name>Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type
+<rte><name>day-3 (Part 2)</name><rtept lat="-44.118061" lon="170.83482"><name
+      >Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type
       >start</type></rtept><rtept lat="-44.089346" lon="170.636233"><name
       >Albury - Fairlie Road, SH 8</name><desc
       >Continue onto Albury - Fairlie Road, SH 8</desc><sym>Waypoint</sym><type

@@ -50,14 +50,24 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
   for (const [index, chunk] of chunks.entries()) {
     const newDoc = parser.parseFromString(gpxContent, "application/xml");
 
-    // Clear existing route points
+    // Update <name> in <metadata> and <rte>
+    const metadataName = newDoc.getElementsByTagName("name")[0];
+    if (metadataName) {
+      metadataName.textContent = `${baseName} (Part ${index + 1})`;
+    }
+
     const rte = newDoc.getElementsByTagName("rte")[0];
+    const rteName = rte.getElementsByTagName("name")[0];
+    if (rteName) {
+      rteName.textContent = `${baseName} (Part ${index + 1})`;
+    }
+
+    // Clear existing route points
     while (rte.firstChild) {
       rte.removeChild(rte.firstChild);
     }
 
-    // Add the route name back (optional)
-    const rteName = doc.getElementsByTagName("rte")[0].getElementsByTagName("name")[0];
+    // Add the updated route name back (optional)
     if (rteName) {
       rte.appendChild(rteName.cloneNode(true));
     }
@@ -99,9 +109,9 @@ async function splitGpx(inputFile, outputDir, pointsPerFile) {
     const formattedContent = await prettier.format(outputContent, {
       parser: "xml",
       plugins: [pluginXml.default],
-      // xmlSelfClosingSpace: true,
+      xmlSelfClosingSpace: false,
       tabWidth: 2,
-      // printWidth: 300, // To wrap lines at a readable width
+      printWidth: 80, // Wrap lines at a readable width
     });
 
     // Write the new GPX file

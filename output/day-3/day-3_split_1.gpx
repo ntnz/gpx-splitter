@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <gpx
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -7,17 +7,15 @@
   xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
 >
 <metadata>
-<name>TT2000 2025 - Day 3</name>
-<copyright author="OpenStreetMap contributors" />
+<name>day-3 (Part 1)</name>
+<copyright author="OpenStreetMap contributors"/>
 <link href="https://kurviger.de">
 <text>Kurviger.de GPX</text>
 </link>
 <time>2025-01-26T01:03:57Z</time>
 </metadata>
-<rte><name>TT2000 2025 - Day 3</name><rtept
-      lat="-42.468132"
-      lon="171.186909"
-    ><name>Greymouth Seaside TOP 10 Holiday Park</name><desc>Continue</desc><sym
+<rte><name>day-3 (Part 1)</name><rtept lat="-42.468132" lon="171.186909"><name
+      >Greymouth Seaside TOP 10 Holiday Park</name><desc>Continue</desc><sym
       >Flag, Green</sym><type>start</type></rtept><rtept
       lat="-42.45789"
       lon="171.205441"
