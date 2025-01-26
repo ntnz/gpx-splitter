@@ -1,0 +1,8 @@
+{
+  "name": "tt2000",
+  "version": "0.0.1",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.9.7",
+    "glob": "^11.0.1"
+  }
+}
