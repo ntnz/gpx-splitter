@@ -158,7 +158,7 @@ async function clearDirectory(directoryPath) {
 // Usage
 const inputDir = "./input"; // Replace with your GPX files directory
 const outputDir = "./output"; // Replace with your output directory
-const pointsPerFile = 50; // Number of track points per file
+const pointsPerFile = 30; // Number of track points per file - 30 is the max for Garmin Streetcross :I
 
 (async () => {
   await clearDirectory(outputDir);

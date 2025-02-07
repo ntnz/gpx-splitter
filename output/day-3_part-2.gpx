@@ -14,9 +14,72 @@
 </link>
 <time>2025-01-26T02:33:01Z</time>
 </metadata>
-<rte><name>day-3_part-2</name><rtept lat="-44.118061" lon="170.83482"><name
+<rte><name>day-3_part-2</name><rtept lat="-43.940081" lon="171.337307"><name
+      >Waypoint 15</name><desc>Waypoint 15</desc><sym>Waypoint</sym><type
+      >start</type></rtept><rtept lat="-43.976376" lon="171.286624"><name
+      >Bridge Street</name><desc>Continue onto Bridge Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-43.909748"
+      lon="171.260455"
+    ><name>05 Peel Forest Hall</name><desc>Waypoint 16</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-43.917284"
+      lon="171.262173"
+    ><name>Peel Forest Road</name><desc
+      >Continue onto Peel Forest Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-43.956094" lon="171.26404"><name
+      >Waypoint 17</name><desc>Waypoint 17</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.045814" lon="171.265962"><name
+      >Geraldine Arundel Road, 72</name><desc
+      >Continue onto Geraldine Arundel Road, 72</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.086969" lon="171.243411"><name
+      >Waypoint 18</name><desc>Waypoint 18</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.153911" lon="171.260444"><name
+      >Winchester - Geraldine Road, 72</name><desc
+      >Continue onto Winchester - Geraldine Road, 72</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.21752"
+      lon="171.271372"
+    ><name>Waypoint 19</name><desc>Waypoint 19</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.229735" lon="171.274164"><name
+      >Temuka Orari Highway, SH 1</name><desc
+      >Continue onto Temuka Orari Highway, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.262271" lon="171.269437"><name
+      >State Highway 1, SH 1</name><desc
+      >Continue onto State Highway 1, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.356818" lon="171.243334"><name
+      >Meadows Road</name><desc>Continue onto Meadows Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.374511"
+      lon="171.241997"
+    ><name>BP Showgrounds</name><desc>Waypoint 20</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-44.382589"
+      lon="171.238252"
+    ><name>Evans Street, SH 1</name><desc
+      >Continue onto Evans Street, SH 1</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.390873" lon="171.250454"><name
+      >Port Loop Road, SH 78</name><desc
+      >Continue onto Port Loop Road, SH 78</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.417501" lon="171.243347"><name
+      >Waypoint 21</name><desc>Waypoint 21</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.432998" lon="171.203918"><name
+      >Beaconsfield Road</name><desc>Continue onto Beaconsfield Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-44.439833"
+      lon="171.163305"
+    ><name> 06 Otipua Hall</name><desc>Waypoint 22</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-44.428264"
+      lon="171.092723"
+    ><name>Holme Station Road</name><desc
+      >Continue onto Holme Station Road</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.195816" lon="170.866823"><name
+      >Cave - Albury Road, SH 8</name><desc
+      >Continue onto Cave - Albury Road, SH 8</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-44.118061" lon="170.83482"><name
       >Waypoint 23</name><desc>Waypoint 23</desc><sym>Waypoint</sym><type
-      >start</type></rtept><rtept lat="-44.089346" lon="170.636233"><name
+      >shaping</type></rtept><rtept lat="-44.089346" lon="170.636233"><name
       >Albury - Fairlie Road, SH 8</name><desc
       >Continue onto Albury - Fairlie Road, SH 8</desc><sym>Waypoint</sym><type
       >shaping</type></rtept><rtept lat="-44.005882" lon="170.475518"><name
@@ -43,30 +106,5 @@
     ><name>Waypoint 27</name><desc>Waypoint 27</desc><sym>Waypoint</sym><type
       >shaping</type></rtept><rtept lat="-44.635232" lon="170.28542"><name
       >Waypoint 28</name><desc>Waypoint 28</desc><sym>Waypoint</sym><type
-      >shaping</type></rtept><rtept lat="-44.701553" lon="170.442003"><name
-      >Otematata Kurow Road, SH 83</name><desc
-      >Continue onto Otematata Kurow Road, SH 83</desc><sym>Waypoint</sym><type
-      >shaping</type></rtept><rtept lat="-44.94873" lon="170.747473"><name
-      >08 Ngapara Memorial Hall</name><desc>Waypoint 29</desc><sym
-      >Flag, Blue</sym><type>via</type></rtept><rtept
-      lat="-45.107535"
-      lon="170.918281"
-    ><name>Main Street</name><desc>Continue onto Main Street</desc><sym
-      >Waypoint</sym><type>shaping</type></rtept><rtept
-      lat="-45.164655"
-      lon="170.913868"
-    ><name>Gardiners Road</name><desc>Continue onto Gardiners Road</desc><sym
-      >Waypoint</sym><type>shaping</type></rtept><rtept
-      lat="-45.181222"
-      lon="170.901057"
-    ><name>09 Kakanui Community Hall</name><desc>Waypoint 30</desc><sym
-      >Flag, Blue</sym><type>via</type></rtept><rtept
-      lat="-45.183124"
-      lon="170.888945"
-    ><name>Kakanui Road</name><desc>Continue onto Kakanui Road</desc><sym
-      >Waypoint</sym><type>shaping</type></rtept><rtept
-      lat="-45.185043"
-      lon="170.890812"
-    ><name>Kakanui Camping Ground</name><desc>Arrive at destination</desc><sym
-      >Flag, Red</sym><type>destination</type></rtept></rte>
+      >destination</type></rtept></rte>
 </gpx>

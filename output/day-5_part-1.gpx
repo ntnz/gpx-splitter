@@ -105,14 +105,5 @@
       lon="173.946945"
     ><name>State Highway 1, SH 1</name><desc
       >Continue onto State Highway 1, SH 1</desc><sym>Waypoint</sym><type
-      >shaping</type></rtept><rtept lat="-41.292116" lon="174.006765"><name
-      >Z</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type
-      >via</type></rtept><rtept lat="-41.289992" lon="174.012184"><name
-      >Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym
-      >Waypoint</sym><type>shaping</type></rtept><rtept
-      lat="-41.271167"
-      lon="174.030437"
-    ><name>Parklands Marina Holiday Park</name><desc
-      >Arrive at destination</desc><sym>Flag, Red</sym><type
       >destination</type></rtept></rte>
 </gpx>

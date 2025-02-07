@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
+<metadata>
+<name>day-4_part-3</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:06Z</time>
+</metadata>
+<rte><name>day-4_part-3</name><rtept lat="-46.418856" lon="168.335466"><name
+      >Stead Street</name><desc>Continue onto Stead Street</desc><sym
+      >Waypoint</sym><type>start</type></rtept><rtept
+      lat="-46.418452"
+      lon="168.347263"
+    ><name>Waypoint 32</name><desc>Waypoint 32</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.417984" lon="168.36159"><name
+      >Elles Road</name><desc>Continue onto Elles Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.429688"
+      lon="168.361463"
+    ><name>Mobil</name><desc>Waypoint 33</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-46.445113" lon="168.401447"><name
+      >18 Tisbury Public Hall</name><desc>Waypoint 34</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-46.571669"
+      lon="168.797041"
+    ><name>Waypoint 35</name><desc>Waypoint 35</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.562382" lon="168.952126"><name
+      >Tokanui Gorge Road Highway</name><desc
+      >Continue onto Tokanui Gorge Road Highway</desc><sym>Waypoint</sym><type
+      >shaping</type></rtept><rtept lat="-46.594932" lon="169.132214"><name
+      > 19 Niagara Hall</name><desc>Waypoint 36</desc><sym>Flag, Blue</sym><type
+      >via</type></rtept><rtept lat="-46.586451" lon="169.319346"><name
+      >Chaslands Highway</name><desc>Continue onto Chaslands Highway</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-46.557663"
+      lon="169.468769"
+    ><name>Papatowai DOC Camp</name><desc>Arrive at destination</desc><sym
+      >Flag, Red</sym><type>destination</type></rtept></rte>
+</gpx>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
+<metadata>
+<name>day-3_part-3</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:01Z</time>
+</metadata>
+<rte><name>day-3_part-3</name><rtept lat="-44.701553" lon="170.442003"><name
+      >Otematata Kurow Road, SH 83</name><desc
+      >Continue onto Otematata Kurow Road, SH 83</desc><sym>Waypoint</sym><type
+      >start</type></rtept><rtept lat="-44.94873" lon="170.747473"><name
+      >08 Ngapara Memorial Hall</name><desc>Waypoint 29</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.107535"
+      lon="170.918281"
+    ><name>Main Street</name><desc>Continue onto Main Street</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.164655"
+      lon="170.913868"
+    ><name>Gardiners Road</name><desc>Continue onto Gardiners Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.181222"
+      lon="170.901057"
+    ><name>09 Kakanui Community Hall</name><desc>Waypoint 30</desc><sym
+      >Flag, Blue</sym><type>via</type></rtept><rtept
+      lat="-45.183124"
+      lon="170.888945"
+    ><name>Kakanui Road</name><desc>Continue onto Kakanui Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-45.185043"
+      lon="170.890812"
+    ><name>Kakanui Camping Ground</name><desc>Arrive at destination</desc><sym
+      >Flag, Red</sym><type>destination</type></rtept></rte>
+</gpx>

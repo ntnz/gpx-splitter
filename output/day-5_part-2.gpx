@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  creator="Kurviger.de"
+  version="1.1"
+  xmlns:gh="https://kurviger.de/public/schema/gpx/1.1"
+>
+<metadata>
+<name>day-5_part-2</name>
+<copyright author="OpenStreetMap contributors"/>
+<link href="https://kurviger.de">
+<text>Kurviger.de GPX</text>
+</link>
+<time>2025-01-26T02:33:10Z</time>
+</metadata>
+<rte><name>day-5_part-2</name><rtept lat="-41.292116" lon="174.006765"><name
+      >Z</name><desc>Waypoint 6</desc><sym>Flag, Blue</sym><type
+      >start</type></rtept><rtept lat="-41.289992" lon="174.012184"><name
+      >Waikawa Road</name><desc>Continue onto Waikawa Road</desc><sym
+      >Waypoint</sym><type>shaping</type></rtept><rtept
+      lat="-41.271167"
+      lon="174.030437"
+    ><name>Parklands Marina Holiday Park</name><desc
+      >Arrive at destination</desc><sym>Flag, Red</sym><type
+      >destination</type></rtept></rte>
+</gpx>
